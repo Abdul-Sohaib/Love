@@ -69,3 +69,6 @@ p {
   opacity: 0.75;
   user-select: none;
 }
+.love{
+  rotate: -90deg;
+}
